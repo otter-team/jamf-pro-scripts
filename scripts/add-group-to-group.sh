@@ -1,6 +1,10 @@
 #!/bin/bash
 
 #### This adds a local group (group a) to a other local group (group b)
+## Created: 2024-07-17
+## Last Modified: 2024-07-17
+
+
 
 #### Variables
 ## Note: Leave these empty if used in Jamf Pro Policy context
